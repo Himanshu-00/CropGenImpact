@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #222222;
-  --color-primary: #6fa858;
+  --color-primary: #075A53;
   --color-secondary: #ffffff;
 }
 
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #00b6a1;
+  color: #009684;
   text-decoration: none;
 }
 
@@ -238,7 +238,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #6fa858;
+  background: #075A53;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -499,7 +499,7 @@ section {
     inset: 0;
     padding: 50px 0 10px 0;
     margin: 0;
-    background: rgba(0, 131, 116, 0.9);
+    background: #075A53;
     overflow-y: auto;
     transition: 0.3s;
     z-index: 9998;
@@ -1720,7 +1720,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #6fa858;
+  background-color: #00796F;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
@@ -1963,7 +1963,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #6fa865;
+  background: #00796F;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
