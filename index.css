@@ -30,6 +30,8 @@ body {
   overflow: hidden;
   text-decoration: none;
   justify-content: center;
+  border-color: #075A53;
+  border-width: 10px;
 }
 
 .card__image {      
@@ -107,7 +109,7 @@ body {
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
-  overflow: scroll;
+  overflow: auto;
 }    
 
 .row {
