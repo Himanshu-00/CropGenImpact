@@ -240,12 +240,13 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #075A53;
+  background: rgba(0, 0, 0, 0.4);
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
   color: #fff;
   padding: 0;
+  
 }
 
 .topbar .contact-info i {
@@ -293,6 +294,7 @@ section {
   display: none;
   z-index: 997;
   height: 90px;
+  background-color: rgba(0, 0, 0, 0.2);
 
 }
 
@@ -1896,6 +1898,7 @@ section {
 @media (min-width: 1365px) {
   .hero {
     background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.2);
   }
 }
 
@@ -1985,7 +1988,7 @@ section {
   background: #005f57;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
-  border-radius: 8px;
+  border-radius: 15px;
   z-index: 1;
   height: 100%;
   width: 100%;
