@@ -1882,7 +1882,7 @@ section {
   padding: 60px 0 0 0;
 }
 
-.video-background {
+/* .video-background {
   position: absolute;
   top: 0;
   left: 0;
@@ -1890,7 +1890,7 @@ section {
   height: 100%;
   object-fit: fill;
   z-index: -1;
-}
+} */
 
 
 @media (min-width: 1365px) {
@@ -1990,6 +1990,7 @@ section {
   height: 100%;
   width: 100%;
   text-align: center;
+  opacity: 0.8;
 }
 
 .hero .icon-box .title {
